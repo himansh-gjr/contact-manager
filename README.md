@@ -23,7 +23,7 @@ name, email and email already exists
 
 ### setting up the project
 
-`git clone `
+`git clone https://github.com/himansh-gjr/contact-manager.git`
 
 `cd contacts-manager`
 
